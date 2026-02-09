@@ -1,0 +1,17 @@
+Introduction to NumPy (Python) 
+NumPy (Numerical Python) is a core Python library used for numerical computing, 
+especially in Data Science, Machine Learning, AI, and scientific computing.
+
+What is NumPy?
+
+NumPy provides:
+1.A powerful N-dimensional array object (ndarray)
+2.Fast mathematical and statistical operations
+3.Tools for linear algebra, random numbers, and Fourier transforms
+
+
+Why NumPy is Important?
+
+1.⚡ Very fast (written in C internally)
+2.📉 Uses less memory than Python lists
+3.🧠 Foundation for Pandas, Matplotlib, Scikit-learn
