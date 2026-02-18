@@ -1,0 +1,36 @@
+📊 Introduction to Seaborn – Theory
+
+Seaborn is a powerful Python data visualization library built on top of Matplotlib.
+It provides high-level, attractive, and informative statistical graphics that are 
+easier to create compared to basic Matplotlib plots.
+
+Seaborn is mainly used in Data Analysis, Machine Learning, and Exploratory Data Analysis (EDA) to understand patterns, trends, and relationships in data.
+
+1. What is Seaborn?
+
+Seaborn is a statistical visualization library that helps create:
+Beautiful charts
+Easy-to-understand plots
+Complex statistical graphs with simple code
+It works well with Pandas DataFrames and integrates smoothly with Matplotlib.
+
+
+2. Why Use Seaborn?
+
+Seaborn is preferred because:
+✅ Better design & themes
+✅ Easy statistical plots
+✅ Built-in datasets
+✅ Works directly with Pandas DataFrames
+✅ Less coding compared to Matplotlib
+
+Example: Creating a heatmap or pairplot is very simple in Seaborn.
+
+3. Features of Seaborn
+Beautiful Default Styles
+Seaborn has built-in themes like:
+darkgrid
+whitegrid
+dark
+white
+ticks
