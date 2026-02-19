@@ -1,0 +1,33 @@
+1. Introduction to SQL (Theory)
+
+What is SQL?
+SQL (Structured Query Language) is a standard programming language used to store, manage, and 
+retrieve data from relational databases.
+
+It allows users to:
+1.Create databases
+2.Insert data
+3.Update/Delete data
+4.Retrieve data
+5.Manage permissions
+
+Why SQL is Important 
+1.Data Analysts use SQL daily
+2.ML Engineers fetch data using SQL
+3.Almost every company uses databases
+
+What is a Database?
+
+A Database is an organized collection of data.
+Example:
+
+1.Student records
+2.Bank transactions
+3.Hospital patient data
+4.Netflix movies data 
+
+
+Examples of SQL:
+1.MySQL
+2.Oracle
+3.SQL Server
