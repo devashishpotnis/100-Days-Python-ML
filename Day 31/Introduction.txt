@@ -1,0 +1,123 @@
+Power BI – Introduction Notes
+
+1.What is Power BI?
+Power BI is a Business Intelligence (BI) tool developed by
+Microsoft.
+
+It is used to:
+
+1.Analyze data
+2.Create reports
+3.Build interactive dashboards
+4.Share insights
+5.It converts raw data into meaningful visual information.
+
+2.Why Power BI is Used?
+Organizations use Power BI to:
+
+1.Track sales performance
+2.Monitor business growth
+3.Analyze customer behavior
+4.Make data-driven decisions
+5.Instead of reading thousands of rows of data, users can see results in charts and dashboards.
+
+
+3.Components of Power BI
+1.Power BI Desktop
+Used to create reports
+Install on computer
+Free to use
+
+2.Power BI Service
+Cloud version
+Used to share reports online
+
+3.Power BI Mobile
+View dashboards on mobile devices
+
+4.Power BI Workflow
+1.Get Data
+2.Transform Data
+3.Model Data
+4.Create Visualizations
+5.Publish & Share
+
+5.Data Sources in Power BI
+1.Power BI can connect to:
+2.Excel files
+3.CSV files
+4.SQL databases
+5.Web data
+6.APIs
+
+6.Important Features
+✔ Drag-and-drop interface
+✔ Interactive dashboards
+✔ Real-time data updates
+✔ Multiple data source connection
+✔ Data modeling
+✔ DAX formulas
+
+7️⃣ What is Power Query?
+
+Power Query is used for data cleaning and transformation.
+
+It helps to:
+
+Remove duplicates
+
+Change data types
+
+Filter rows
+
+Split or merge columns
+
+Handle missing values
+
+This step is done before creating reports.
+
+8️⃣ What is Data Modeling?
+
+Data modeling means:
+
+Creating relationships between tables
+
+Connecting primary key and foreign key
+
+Managing multiple datasets
+
+Example:
+Customer Table ↔ Sales Table
+
+9.What is DAX?
+DAX (Data Analysis Expressions) is a formula language used in Power BI.
+Used for:
+
+1.Calculations
+2.Aggregations
+3.Creating measures
+
+🔟 Types of Visualizations
+
+1.Bar Chart
+2.Line Chart
+3.Pie Chart
+4.Table
+5.Matrix
+6.KPI Card
+7.Map
+
+11.Advantages of Power BI
+
+Easy to learn
+Professional dashboards
+Free desktop version
+High demand in Data Analyst roles
+Integration with Microsoft tools
+
+
+12.Limitations of Power BI
+
+1.Large datasets may slow down
+2.Advanced DAX can be complex
+3.Sharing requires internet
