@@ -1,0 +1,38 @@
+
+What is Data Transformation? Data transformation means converting raw
+data into clean and usable data.
+
+Common Transformations in Power BI:
+
+1.  Remove Columns
+    -   Delete unnecessary columns.
+2.  Filter Rows
+    -   Keep only required records.
+3.  Change Data Type
+    -   Convert text to number or date.
+    -   Important for calculations.
+4.  Handle Missing Values
+    -   Remove null rows
+    -   Replace null values
+    -   Fill up/down
+5.  Rename Columns
+    -   Improve readability.
+6.  Split Columns
+    -   Split using delimiter (e.g., date and time).
+7.  Merge Columns
+    -   Combine two columns into one.
+8.  Remove Duplicates
+    -   Remove repeated rows.
+9.  Group By
+    -   Perform aggregation like SQL.
+    -   Example: Total Sales per Store.
+
+Applied Steps Feature: - Every transformation is saved. - You can modify
+or delete any step. - Makes process flexible and easy.
+
+Why It Matters for Career: - 70% of real-world data work is cleaning. -
+Essential skill for Data Analytics and AI/ML roles.
+
+
+
+

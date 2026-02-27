@@ -1,0 +1,23 @@
+3. 
+What is Power Query Editor? Power Query Editor is a tool inside Power BI
+used to clean, transform, and prepare data before analysis.
+
+It is similar to data cleaning in Python using Pandas.
+
+How to Open Power Query Editor: 1. Open Power BI Desktop 2. Click on
+Home tab 3. Select “Transform Data” 4. Power Query Editor window will
+open
+
+Main Components:
+
+1.  Queries Panel (Left Side)
+    -   Shows all tables or datasets loaded.
+2.  Data View (Center)
+    -   Displays rows and columns of selected table.
+3.  Applied Steps (Right Side)
+    -   Shows all transformation steps performed.
+    -   Every action is recorded automatically.
+4.  Ribbon Menu (Top)
+    -   Contains all transformation options.
+
+
