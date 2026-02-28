@@ -1,0 +1,46 @@
+
+LINE CHART
+
+Definition:
+A Line Chart is used to show trends or changes over time by connecting data points with lines.
+
+Key Features:
+- X-axis usually shows time (days, months, years)
+- Y-axis shows values
+- Data points are connected with a line
+
+Types of Line Charts:
+1. Simple Line Chart – One data series
+2. Multiple Line Chart – Multiple lines for comparison
+
+When to Use:
+- Stock price changes
+- Temperature over days
+- Monthly sales trend
+
+Example:
+Jan = 100 sales
+Feb = 120 sales
+Mar = 150 sales
+
+Advantages:
+- Shows trends clearly
+- Easy to see increase or decrease
+- Good for time-based data
+
+Disadvantages:
+- Not good for comparing many categories
+- Can be confusing with too many lines
+
+
+DIFFERENCE BETWEEN BAR CHART AND LINE CHART
+
+Bar Chart:
+- Used to compare categories
+- Uses bars
+- Good for comparison
+
+Line Chart:
+- Used to show trend over time
+- Uses lines
+- Good for trend analysis

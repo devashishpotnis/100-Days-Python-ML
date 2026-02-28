@@ -1,0 +1,35 @@
+BAR CHART
+
+Definition:
+A Bar Chart is used to compare values between different categories using rectangular bars.
+
+Key Features:
+- Categories are shown on X-axis
+- Values are shown on Y-axis
+- Bars can be vertical or horizontal
+- Length of bar represents value
+
+Types of Bar Charts:
+1. Simple Bar Chart – One data series
+2. Grouped Bar Chart – Multiple data series side by side
+3. Stacked Bar Chart – Values stacked on top of each other
+
+When to Use:
+- Comparing sales of different products
+- Comparing marks of students
+- Population of different cities
+
+Example:
+Product A = 50 sales
+Product B = 70 sales
+Product C = 30 sales
+
+Advantages:
+- Easy to understand
+- Good for comparison
+- Clear visualization
+
+Disadvantages:
+- Not good for large datasets
+- Cannot show trends over time well
+
