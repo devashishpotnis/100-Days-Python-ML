@@ -1,0 +1,16 @@
+Donut Chart
+A Donut Chart is similar to a Pie Chart but with a hole in the center.
+
+1.Shows percentage distribution.
+2.Center space can display total value or label.
+3.More modern look compared to pie chart.
+
+Advantages:
+
+1.Better visual design.
+2.Can show additional information in the center.
+
+Disadvantages:
+
+1.Same limitations as pie chart.
+2.Not good for detailed comparison.

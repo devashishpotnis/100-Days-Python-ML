@@ -1,0 +1,18 @@
+Pie Chart
+A Pie Chart is a circular chart divided into slices to represent data proportions.
+
+Key Points:
+
+1.Shows percentage distribution.
+2.Each slice represents a category.
+3,Total value = 100%.
+
+Advantages:
+
+1.Easy to understand.
+2.Good for showing proportions.
+
+Disadvantages:
+
+1.Not suitable for many categories.
+2.Hard to compare similar-sized slices.

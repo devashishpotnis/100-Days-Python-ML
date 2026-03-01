@@ -1,0 +1,18 @@
+Scatter Plot
+
+1.A Scatter Plot shows the relationship between two numerical variables.
+2.Uses dots to represent data points.
+3.X-axis = one variable.
+4.Y-axis = another variable.
+5.Helps identify correlation (positive, negative, none).
+
+
+Advantages:
+
+1.Shows trends and patterns.
+2.Identifies outliers easily.
+
+Disadvantages:
+
+1.Only works with numerical data.
+2.Can be messy with too many points.

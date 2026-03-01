@@ -1,0 +1,16 @@
+Funnel Chart
+A Funnel Chart shows stages in a process and how values decrease at each stage.
+
+1.Shape looks like a funnel.
+2.Used in sales and marketing processes.
+3.Shows drop-offs at each step.
+
+Advantages:
+
+1.Easy to understand process flow.
+2.Highlights where loss occurs.
+
+Disadvantages:
+
+1.Not suitable for unrelated data.
+2.Limited customization.
