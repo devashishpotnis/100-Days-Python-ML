@@ -1,0 +1,20 @@
+WATERFALL CHART
+
+Definition:
+A Waterfall Chart shows how an initial value increases or decreases step-by-step to reach a final result.
+
+Purpose:
+1.To understand positive and negative changes.
+2.To analyze profit and loss.
+3.To track budget or revenue changes.
+
+Example:
+Starting Profit = 10,000
++ Sales Increase = 5,000
+- Expenses = 2,000
+Final Profit = 13,000
+
+Advantages:
+1.Shows step-by-step impact.
+2.Easy to understand financial flow.
+3.Good for business analysis.

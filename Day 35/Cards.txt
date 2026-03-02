@@ -1,0 +1,18 @@
+CARDS
+
+Definition:
+A Card visual displays a single important value in a big and clear format.
+
+Purpose:
+1.To highlight key metrics.
+2.To show summary information on dashboards.
+
+Examples:
+Total Sales = 5,00,000
+Total Customers = 1,200
+Total Profit = 75,000
+
+Advantages:
+1.Simple and clear.
+2.Easy to read.
+3.Best for dashboard overview.

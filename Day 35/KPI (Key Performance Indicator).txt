@@ -1,0 +1,24 @@
+KPI (KEY PERFORMANCE INDICATOR)
+
+Definition:
+KPI is a visual that compares actual performance with a target value.
+
+Purpose:
+1.To track business performance.
+2.To measure progress toward goals.
+3.To compare target vs actual results.
+
+Example:
+Target Sales = 1,00,000
+Actual Sales = 90,000
+Status = Below Target
+
+Components of KPI:
+1.Indicator (Main Value)
+2.Target Value
+3.Trend (Increase or Decrease over time)
+
+Advantages:
+1.Shows performance clearly.
+2.Helps in decision making.
+3.Tracks progress over time.
