@@ -1,0 +1,28 @@
+Visual Interactivity
+
+Visual Interactivity controls how visuals affect each other.
+
+Path:
+Format → Edit Interactions
+
+Options:
+- Cross-filter
+- Cross-highlight
+- None
+
+Cross-filter:
+Filters other visuals completely.
+
+Cross-highlight:
+Highlights selected data but keeps other data visible.
+
+None:
+No interaction between visuals.
+
+Example:
+Clicking Maharashtra in a map:
+- Sales chart updates (cross-filter)
+- Profit chart highlights data (cross-highlight)
+
+
+

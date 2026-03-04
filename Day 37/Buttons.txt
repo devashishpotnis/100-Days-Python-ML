@@ -1,0 +1,26 @@
+Buttons
+
+Buttons add interactivity and navigation to reports.
+
+Path:
+Insert → Buttons
+
+Types:
+- Back
+- Page Navigation
+- Bookmark
+- Drill Through
+- Blank (custom action)
+
+Actions Available:
+- Page Navigation
+- Bookmark
+- Drill Through
+- Web URL
+
+Example Uses:
+- Back button for drill-through page
+- Navigation menu
+- Reset filter button (with bookmark)
+
+

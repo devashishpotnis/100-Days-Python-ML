@@ -1,0 +1,21 @@
+Sync Slicers
+
+Sync Slicers allow one slicer to filter multiple pages.
+
+Path:
+View → Sync Slicers
+
+Features:
+- Sync slicer across pages
+- Hide slicer on some pages
+- Keep filter consistency
+
+Example:
+If you select Year = 2024 on Page 1,
+Page 2 and Page 3 automatically filter.
+
+Benefits:
+- Professional multi-page reports
+- User-friendly experience
+- Consistent analysis
+

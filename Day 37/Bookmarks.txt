@@ -1,0 +1,27 @@
+Bookmarks
+
+Bookmarks save the current state of a report page.
+
+Path:
+View → Bookmarks Pane
+
+It saves:
+- Filters
+- Slicer selections
+- Visual visibility
+- Drill position
+
+Types of Bookmark Settings:
+- Data
+- Display
+- Current Page
+
+Common Use Cases:
+- Toggle between visuals
+- Create navigation menu
+- Reset filters
+- Create storytelling dashboards
+
+
+
+

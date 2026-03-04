@@ -1,0 +1,18 @@
+Selection Pane
+Selection Pane is used to manage and control visuals on a report page.
+
+Path:
+View → Selection Pane
+
+Functions:
+- Show or hide visuals
+- Rename visuals
+- Change visual order (layering)
+- Lock visuals
+
+Common Use Case:
+Used with bookmarks to create toggle buttons like:
+- Show/Hide Filter Panel
+- Switch between Chart and Table view
+
+

@@ -1,0 +1,25 @@
+Tooltip
+Tooltip shows additional information when hovering over a visual.
+It improves report clarity without overcrowding the dashboard.
+
+Types:
+1. Default Tooltip (automatic values)
+2. Custom Tooltip (separate tooltip page)
+
+How to create Custom Tooltip:
+1. Create new page.
+2. Turn on Tooltip in Page Information.
+3. Set page size as Tooltip.
+4. Design the page.
+5. Assign it to a visual.
+
+Uses:
+- Show detailed breakdown
+- Show percentage contribution
+- Show extra KPIs
+
+Benefits:
+- Clean dashboard
+- Better user experience
+- Advanced report design
+

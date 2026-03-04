@@ -1,0 +1,27 @@
+Drill Down
+Drill Down is used to navigate hierarchical data inside the same visual.
+It allows users to move from higher-level summary data to more detailed levels.
+
+Example:
+Year → Quarter → Month → Day
+Country → State → City
+
+How it works:
+- Add multiple fields in hierarchy.
+- Click the Drill Down icon in the visual.
+- Select a specific bar/section to move to the next level.
+
+Types:
+1. Drill Down (go one level at a time)
+2. Expand All Down One Level (show all levels together)
+
+Key Points:
+- Works within the same page.
+- Based on hierarchy.
+- Used in bar charts, column charts, etc.
+
+Interview Question:
+Difference between Drill Down and Drill Through?
+Drill Down → Same page, hierarchy-based.
+Drill Through → Different page, filter-based.
+
