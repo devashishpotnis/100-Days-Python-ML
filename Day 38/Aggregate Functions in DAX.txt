@@ -1,0 +1,13 @@
+🔹 2. Aggregate Functions in DAX
+1️⃣ SUM
+Total Sales = SUM(Sales[SalesAmount])
+2️⃣ AVERAGE
+Average Sales = AVERAGE(Sales[SalesAmount])
+3️⃣ COUNT
+Total Orders = COUNT(Sales[OrderID])
+4️⃣ DISTINCTCOUNT
+Unique Customers = DISTINCTCOUNT(Sales[CustomerID])
+5️⃣ MIN
+Minimum Sales = MIN(Sales[SalesAmount])
+6️⃣ MAX
+Maximum Sales = MAX(Sales[SalesAmount])

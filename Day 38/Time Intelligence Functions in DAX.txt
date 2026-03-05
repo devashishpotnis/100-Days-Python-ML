@@ -1,0 +1,36 @@
+Time Intelligence Functions in DAX
+
+TOTALYTD (Year-To-Date)
+YTD Sales =
+TOTALYTD(
+    SUM(Sales[SalesAmount]),
+    'Date'[Date]
+)
+
+SAMEPERIODLASTYEAR
+Last Year Sales =
+CALCULATE(
+    SUM(Sales[SalesAmount]),
+    SAMEPERIODLASTYEAR('Date'[Date])
+)
+
+DATEADD
+Previous Month Sales =
+CALCULATE(
+    SUM(Sales[SalesAmount]),
+    DATEADD('Date'[Date], -1, MONTH)
+)
+
+DATESMTD (Month-To-Date)
+MTD Sales =
+CALCULATE(
+    SUM(Sales[SalesAmount]),
+    DATESMTD('Date'[Date])
+)
+
+DATESQTD (Quarter-To-Date)
+QTD Sales =
+CALCULATE(
+    SUM(Sales[SalesAmount]),
+    DATESQTD('Date'[Date])
+)

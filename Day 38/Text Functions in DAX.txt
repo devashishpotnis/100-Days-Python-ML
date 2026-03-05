@@ -1,0 +1,18 @@
+Text Functions in DAX
+
+CONCATENATE
+Full Name = CONCATENATE(Customer[FirstName], Customer[LastName])
+OR 
+Full Name = Customer[FirstName] & " " & Customer[LastName]
+
+LEFT
+First 3 Letters = LEFT(Customer[Name], 3)
+
+RIGHT
+Last 2 Letters = RIGHT(Customer[Name], 2)
+
+LEN
+Name Length = LEN(Customer[Name])
+
+UPPER
+Upper Name = UPPER(Customer[Name])

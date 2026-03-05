@@ -1,0 +1,20 @@
+Logical Functions in DAX
+
+IF
+Sales Category = IF(Sales[SalesAmount] > 5000, "High", "Low")
+
+AND
+Condition Check = IF(AND(Sales[SalesAmount] > 5000, Sales[Profit] > 1000), "Good", "Average")
+
+OR
+Condition Check = IF(OR(Sales[SalesAmount] > 5000, Sales[Profit] > 1000), "Ok", "Poor")
+
+SWITCH
+Grade = 
+SWITCH(
+    TRUE(),
+    Sales[Score] >= 90, "A",
+    Sales[Score] >= 75, "B",
+    Sales[Score] >= 50, "C",
+    "Fail"
+)

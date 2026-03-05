@@ -1,0 +1,22 @@
+Filter Functions in DAX
+
+CALCULATE (Most Important)
+Sales in 2024 =
+CALCULATE(
+    SUM(Sales[SalesAmount]),
+    YEAR(Sales[OrderDate]) = 2024
+)
+
+FILTER
+High Sales =
+CALCULATE(
+    SUM(Sales[SalesAmount]),
+    FILTER(Sales, Sales[SalesAmount] > 5000)
+)
+
+ALL
+Total Sales All =
+CALCULATE(
+    SUM(Sales[SalesAmount]),
+    ALL(Sales)
+)
