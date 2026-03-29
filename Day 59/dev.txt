@@ -1,0 +1,75 @@
+Unsupervised Learning 
+
+No target/output variable is provided
+The model identifies hidden patterns and relationships in the
+    dataset
+
+
+Types of Unsupervised Learning
+
+1.Clustering Clustering is the process of grouping similar data points
+together.
+
+Goal: - Data points in the same cluster are similar - Data points in
+different clusters are dissimilar
+
+Algorithms: - K-Means Clustering - Hierarchical Clustering - DBSCAN
+Example: Customer segmentation based on purchasing behavior
+
+
+2.Dimensionality Reduction Reducing the number of input features while
+retaining important information.
+
+Goal: - Reduce complexity - Remove redundant features - Improve
+visualization
+
+Algorithms: - PCA (Principal Component Analysis) - t-SNE
+
+Example: Reducing high-dimensional data to 2D for visualization
+
+
+3.Association Rule Learning Used to find relationships between
+variables in large datasets.
+
+Goal: - Discover rules of the form “if-then”
+
+Algorithms: - Apriori - Eclat
+
+Example: Customers who buy bread are likely to buy butter
+
+
+Common Algorithms
+
+1.K-Means Clustering  
+a.Divides data into K clusters 
+b.Each cluster has a centroid 
+c.Data points are assigned based on distance to centroid
+
+2.DBSCAN - Density-based clustering algorithm  
+a.Groups dense regions and
+b.identifies sparse regions as noise 
+c.Useful for detecting outliers
+
+3.PCA (Principal Component Analysis) 
+a.Reduces dimensionality of data 
+b.Transforms data into new components with maximum variance
+
+Advantages - 
+1.Does not require labeled data - 
+2.Helps in discovering hidden patterns - 
+3.Useful for exploratory data analysis - 
+4.Reduces datacomplexity
+
+Disadvantages - 
+1.Difficult to evaluate performance - 
+2.Results may not be
+3.easily interpretable - 
+4.Sensitive to noise in some cases
+
+Applications 
+1.Customer segmentation 
+2.Market basket analysis 
+3.Anomaly detection 
+4.Image compression 
+5.Recommendation systems
+
