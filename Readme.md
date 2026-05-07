@@ -310,7 +310,7 @@ This challenge helped me grow technically and personally.
 
 ## 👨‍💻 Devashish Potnis
 
-- LinkedIn: https://lnkd.in/dmFHqCrK
+- LinkedIn: https://www.linkedin.com/in/devashishpotnis
 
 ---
 
